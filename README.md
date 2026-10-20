@@ -4,6 +4,8 @@ A small GTK4 app for connecting a Steam Deck (or any Linux machine running Netwo
 
 It uses only what SteamOS already ships: Python 3, GTK4, `nmcli`, and NetworkManager's OpenVPN plugin. You don't install packages and you don't unlock the read-only filesystem, so the app lives in your home folder and survives SteamOS updates.
 
+![NordVPN GUI on SteamOS: status card with Quick Connect and the searchable country list](docs/screenshot.png)
+
 ## Features
 
 - **Quick Connect** to the server NordVPN currently recommends.
